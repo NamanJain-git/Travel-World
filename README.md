@@ -85,3 +85,6 @@ npm start
 
 cd backend
 npm run start
+
+
+ GIT PAGES LINK (https://namanjain-git.github.io/Travel-World/)
